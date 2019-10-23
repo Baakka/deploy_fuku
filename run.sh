@@ -1,1 +1,1 @@
-python deploy.py
+python3.6 deploy.py
